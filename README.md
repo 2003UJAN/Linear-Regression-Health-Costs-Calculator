@@ -1,1 +1,1 @@
-# Linear-Regression-Health-Costs-Calculator
+# Linear-Regression-Health-Costs-Calculator is a linear regression based calculator to predict health care cost depending on age,sex,bmi,children,smoker and region.It was a task in the the course "Machine Learning with Python" at FreeCodeCamp.
